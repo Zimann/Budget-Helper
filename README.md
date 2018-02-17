@@ -5,7 +5,7 @@
   - This project has been coded with the classic DOM manipulation approach
   - It has been coded the way it is, to illustrate how hard it actually becomes to keep track of changes by developing a project in this way, without making use of the known (and modern) __data-binding__ which keeps track of changes and actually performs updates on the DOM Tree.
   - Spaghetti code was in this case, a difficult thing to avoid.
-  - 
+  
   ### How can this project help you?
 - It can help you to have a visual representation of your expenses and incomes.
 - It can show you accurate percentages between income and expense sums, as well as individual calculated percentages for each income or expense entry.
