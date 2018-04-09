@@ -277,7 +277,7 @@
 
             //subtract the section value from the "total" value
             totalSum -= fieldIncomeValue;
-            totalBudget.html('Total: '+ totalSum);
+            totalBudget.html(totalSum);
 
             if(expensePercentageReference > 0) {
                 expensePercentage.addClass('full-opacity');
@@ -298,7 +298,7 @@
             }
             //add the section value to the "total"
             totalSum += fieldExpenseValue;
-            totalBudget.html('Total: '+ totalSum);
+            totalBudget.html(totalSum);
         }
     }
 
