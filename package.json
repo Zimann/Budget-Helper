@@ -1,5 +1,5 @@
 {
-  "name": "grunt task runner",
+  "name": "grunt-task-runner",
   "version": "0.0.1",
   "dependencies": {
     "browserslist": "^2.11.3",
